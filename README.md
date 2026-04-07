@@ -16,12 +16,12 @@ Este projeto foi desenvolvido como Trabalho de Conclusão de Curso (TCC), com o 
 
 ## 📸 Imagens do Sistema
 
-![Home](assents/images/home1.png)
-![Home](assents/images/home2.png)
-![Home](assents/images/home3.png)
-![Home](assents/images/home4.png)
-![Home](assents/images/home5.png)
-![Home](assents/images/home6.png)
+![Home](assets/images/home1.png)
+![Home](assets/images/home2.png)
+![Home](assets/images/home3.png)
+![Home](assets/images/home4.png)
+![Home](assets/images/home5.png)
+![Home](assets/images/home6.png)
 
 
 
