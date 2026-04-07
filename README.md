@@ -14,6 +14,17 @@ Este projeto foi desenvolvido como Trabalho de Conclusão de Curso (TCC), com o 
 - MySQL
 - HTML, CSS e JavaScript
 
+## 📸 Imagens do Sistema
+
+![Home](assets/images/home1.png)
+![Home](assets/images/home2.png)
+![Home](assets/images/home3.png)
+![Home](assets/images/home4.png)
+![Home](assets/images/home5.png)
+![Home](assets/images/home6.png)
+
+
+
 ## ⚙️ Como executar o projeto
 
 1. Clone o repositório:
